@@ -2,14 +2,14 @@
 
 ## When where what
 
-This demo was released by Suspect in 1992.
+This Amiga demo was released by Suspect in 1992.
 
-platform :	Amiga OCS/ECS Amiga OCS/ECS
-type :	demo demo
-release date :	october 1992
-release party :	Warszawa 2 1992
-compo :	amiga demo
-ranked : 3rd
+- platform :	Amiga OCS/ECS Amiga OCS/ECS.
+- type :	demo demo
+- release date :	october 1992
+- release party :	Warszawa 2 1992
+- compo :	amiga demo
+- ranked : 3rd
 
 ## Links
 
@@ -17,7 +17,7 @@ https://www.pouet.net/prod.php?which=51592
 
 ## Development environment
 
-A system with minimum 0.5MB chip is required, and some additional fast or chip memory to host the sources. Can be a real Amiga or emulator-based.
+A Commodore Amiga 500 (or better) with minimum 0.5MB chip is required, and some additional fast or chip memory to host the sources. Can be a real Amiga or emulator-based.
 
 Seka (most likely) or AsmOne is needed to assemble the source code.
 
